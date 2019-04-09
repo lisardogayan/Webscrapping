@@ -21,11 +21,15 @@ Se genera un dataset “productinfo.csv” con la información de todos y cada u
 •	price<br/>
 
 <p>Integrantes del equipo<br/>
-Lisardo Gayan <br/>
+Lisardo Gayán <br/>
 Jose Luis Melo </p>
 
 ## Descripción de los ficheros
 • Test_Webscrapping.ipynb: Código Python para la captura de datos.<br/>
+• Mediamarkt_Web_Scraping.ipynb: Versión actualizada del código, se añade precio en formato numérico (float). 
+  Se añade la fecha del scrap
+  También en la visualización se le puede pasar una query.
+  Faltaría renombrar los campos.
 • Data/productinfo.csv: Archivo .csv con los datos capturados.<br/>
 • Plots/price_distribution_brand.png: Imagen .png con gráfico de líneas de los resultado del análisis.<br/>
 </html>
