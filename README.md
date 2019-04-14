@@ -1,8 +1,8 @@
 <html>
 Tipología y Ciclo de Vida de los Datos<br/>
 UOC<br/>
-Práctica 1: Web Scraping
-
+Práctica 1: Web Scraping<br/><br/>
+  
 <p>
 Proyecto en python realizado para la asignatura de Tipología y ciclo de vida de los datos en el cual se extraen los precios de todas las categorías de Media Markt, siendo este el portal de referencia para el mercado de consumo electrónico y que se puede tomar como base para la comparación de precios. El scraper puede ser ajustado para las webs de los diferentes países ya que utilizan la misma estructura web.
 Se genera un dataset “productinfo.csv” con la información de todos y cada uno de los artículos listados en la web, </p>
@@ -27,8 +27,9 @@ Lisardo Gayán <br/>
 Jose Luis Melo </p>
 
 ## Descripción de los ficheros
-• Test_Webscrapping.ipynb: Código Python para la captura de datos.<br/>
-• Mediamarkt_Web_Scraping.ipynb: Versión actualizada del código.<br/>
+• Practica1.pdf : Descripción en detalle de este proyecto. <br/>
+• Test_Webscrapping.ipynb: Código inicial para la captura de datos.<br/>
+• Mediamarkt_Web_Scraping.ipynb: Versión final del código.<br/>
 • Data/productinfo_fecha.csv: Archivo .csv con los datos capturados.<br/>
 • Plots/price_distribution_brand.png: Imagen .png con gráfico de líneas de los resultado del análisis.<br/>
 </html>
